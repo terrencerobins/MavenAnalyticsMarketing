@@ -26,7 +26,7 @@ WHERE
 SELECT 
     id,
     Income
-FROM i
+FROM
 	marketing.data
 WHERE 
 	Income IS NULL
